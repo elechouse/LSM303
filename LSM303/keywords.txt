@@ -1,5 +1,5 @@
 LSM303	KEYWORD1
-
+	
 init	KEYWORD2
 getDeviceType	KEYWORD2
 enableDefault	KEYWORD2
